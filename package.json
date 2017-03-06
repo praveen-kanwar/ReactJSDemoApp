@@ -1,0 +1,19 @@
+{
+  "name": "reactjsdemoapp",
+  "version": "1.0.1",
+  "description": "Demo App For React With ES6 & Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-kanwar/ReactJSDemoApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-kanwar/ReactJSDemoApp/issues"
+  },
+  "homepage": "https://github.com/praveen-kanwar/ReactJSDemoApp#readme"
+}
